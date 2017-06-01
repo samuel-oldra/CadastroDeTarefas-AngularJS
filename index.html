@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Teste</title>
+</head>
+
+<body ng-app='minhaApp' ng-controller='meuController'>
+
+    <input type="text" ng-model="nome" />
+    <button ng-click="adicionar()">Adicionar</button>
+
+    <ul>
+        <li ng-repeat="item in lista">
+            <span>{{ item }}</span>
+            <button ng-click="remover($index)">X</button>
+        </li>
+    </ul>
+
+<script src="angular-1.6.2/angular.js"></script>
+<script src="app.js"></script>
+<script src="controller.js"></script>
+</body>
+</html>
