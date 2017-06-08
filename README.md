@@ -1,6 +1,6 @@
-# Projeto AngularJS
+# Listagem de Tarefas
 
-Projeto de exemplo usando AngularJS
+Projeto de exemplo usando AngularJS e Bootstrap.
 
 # GitHub Page
 
