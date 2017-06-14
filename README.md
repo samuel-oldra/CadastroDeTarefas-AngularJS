@@ -18,4 +18,4 @@ Sistema de Cadastro de Tarefas
 
 ## GitHub Page
 
-https://samuel-oldra.github.io/Projeto-AngularJS/
+https://samuel-oldra.github.io/CadastroDeTarefas-AngularJS/
